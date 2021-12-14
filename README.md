@@ -9,6 +9,6 @@
 
 
 # tools and languages
-github
-visual studio code
+github,
+visual studio code,
 node.js
