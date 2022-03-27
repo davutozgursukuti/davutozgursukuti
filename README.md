@@ -1,4 +1,4 @@
-# my name is Davut, Welcome To My Github Profile 👋
+# My Name is Davut, Welcome To My Github Profile 👋
 
 
 # Tools and Languages
