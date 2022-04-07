@@ -2,7 +2,7 @@
 
 
 # Tools and Languages
-![Image](https://img.shields.io/badge/-NodeJS-61DAFB?logo=node&logoColor=white&style=flat) VSC Github
+![Image](https://img.shields.io/badge/-NodeJS-61DAFB?logo=node&logoColor=green&style=flat) VSC Github
 
 
 ### I am Back-End Developer
