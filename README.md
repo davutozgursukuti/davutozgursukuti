@@ -2,7 +2,7 @@
 
 
 # Tools and Languages
-![Image](https://img.shields.io/badge/-NodeJS?maxAge=3600) VSC Github
+![Image](https://img.shields.io/badge/-NodeJS.png) VSC Github
 
 
 ### I am Back-End Developer
