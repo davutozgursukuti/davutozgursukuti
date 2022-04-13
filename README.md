@@ -10,4 +10,4 @@
 - discord link: <a href="https://discord.com/users/733309959349207091">discord</a>
 
 # Stats
-![Image](https://github-readme-stats.vercel.app/api?username=davutozgursukuti4531&theme=blue-green)       ![Image](https://github-readme-stats.vercel.app/api?username=davutozgursukuti4531&theme=blue-green)
+![Image](https://github-readme-stats.vercel.app/api?username=davutozgursukuti4531&theme=blue-green)       ![Image](	https://github-readmestats.vercel.app/api/top-langs/?username=davutozgursukuti4531&theme=blue-green)
