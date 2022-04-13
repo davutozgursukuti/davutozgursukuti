@@ -7,7 +7,7 @@
 ### I am Back-End Developer
 
 - NPM: <a href="https://www.npmjs.com/~davutozgursukuti">NPM</a>
-- discord link: <a href="https://discord.com/users/733309959349207091">discord</a>
+- Discord Link: <a href="https://discord.com/users/733309959349207091">discord</a>
 
 # Stats
 ![Image](https://github-readme-stats.vercel.app/api?username=davutozgursukuti4531&theme=blue-green)  ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=davutozgursukuti4531&theme=blue-green)
