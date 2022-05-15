@@ -6,7 +6,7 @@
 
 ### I am Back-End Developer
 
-- NPM: <a href="https://www.npmjs.com/~davutozgursukuti">NPM</a>
+- NPM: Coming Soon
 - Discord Link: <a href="https://discord.com/users/586995957695119477">discord</a>
 
 # Stats
