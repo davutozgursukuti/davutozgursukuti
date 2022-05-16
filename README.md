@@ -6,8 +6,8 @@
 
 ### I am Back-End Developer
 
-- NPM: Coming Soon
-- Discord Link: <a href="https://discord.com/users/586995957695119477">discord</a>
+- NPM: <a href="https://www.npmjs.com/~rexardev">NPM</a>
+- Discord Link: <a href="https://discord.com/users/586995957695119477">Discord</a>
 
 # Stats
 ![Image](https://github-readme-stats.vercel.app/api?username=davutozgursukuti4531&theme=blue-green)  ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=davutozgursukuti4531&theme=blue-green)
