@@ -1,5 +1,7 @@
 # 👋 My Name is Davut, Welcome To My Github Profile 👋
 
+# I am A Lone Developer :(
+
 # 🧰 Tools and Languages
 ![Image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Image](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Image](https://img.shields.io/badge/NODE%20PACKAGE%20MANAGER-darkred?style=for-the-badge&logo=npm&logoColor=red)
 
