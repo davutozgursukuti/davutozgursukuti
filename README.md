@@ -4,7 +4,6 @@
 - I am 13 years old.
 - I study at 8th class.
 - I am from Turkey.
-![Image](./tsaEventler.png)
 ![Image](https://api.visitorbadge.io/api/visitors?path=github.com%2Fdavutozgursukuti4531&countColor=%23263759)
 
 # 🧰 Tools and Languages
