@@ -2,7 +2,7 @@
 
 ### My Information
 - I am 14 years old.
-- I study at 8th class.
+- I study at 9th class.
 - I am from Turkey.
 
 ![Image](https://api.visitorbadge.io/api/visitors?path=github.com%2Fdavutozgursukuti4531&countColor=%23263759)
