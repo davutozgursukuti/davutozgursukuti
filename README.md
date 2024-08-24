@@ -1,10 +1,5 @@
 # 👋 My Name is Davut, Welcome To My Github Profile 👋
 
-### My Information
-- I am 15 years old.
-- I study at 10th class.
-- I am from Turkey.
-
 ![Image](https://api.visitorbadge.io/api/visitors?path=github.com%2Fdavutozgursukuti4531&countColor=%23263759)
 
 # Languages
