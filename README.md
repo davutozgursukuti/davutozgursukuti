@@ -6,6 +6,7 @@
 - JavaScript
 - TypeScript
 - ActionScript 2
+- C++(learning)
 
 
 ### I am Back-End Developer
