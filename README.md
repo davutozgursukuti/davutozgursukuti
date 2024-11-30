@@ -6,7 +6,6 @@
 - JavaScript
 - TypeScript
 - ActionScript 2
-- ActionScript 3(learning)
 - C++(learning)
 
 
